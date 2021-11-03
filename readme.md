@@ -14,6 +14,6 @@ so I had to write my own, accessing the Google Drive OData endpoints
 - Handling Drive API errors, making sure the Crypto Exchange API endpoints do not shut down
 - Making sure marker rows would be inserted when the Crypto APIs or the Drive API would throw an error, so that later there would be no false values in the data
 - Multithreading
-- Working with APIs from different exchanges and creating a general Class which can handle those
+- Working with APIs from different exchanges and creating a general class which can handle those
 
 
