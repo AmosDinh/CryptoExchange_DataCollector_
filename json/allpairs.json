@@ -1,0 +1,26 @@
+{
+  "pairs": [
+    ["ETH", "BTC"],
+    ["LTC", "BTC"],
+    ["LTC", "ETH"],
+
+    ["XRP", "BTC"],
+
+    ["ETH", "EUR"],
+    ["BTC", "EUR"],
+    ["LTC", "EUR"],
+    ["XRP", "EUR"],
+    ["USDT", "EUR"],
+
+    ["XRP", "USD"],
+    ["ETH", "USD"],
+    ["BTC", "USD"],
+    ["LTC", "USD"],
+
+    ["XRP", "USDT"],
+    ["ETH", "USDT"],
+    ["BTC", "USDT"],
+    ["LTC", "USDT"],
+    ["USDT", "USD"]
+  ]
+}

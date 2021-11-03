@@ -1,0 +1,43 @@
+{
+    "dt": None,
+    "exchange": None,
+    "pair": None,
+
+    "a": None,
+    "av": None,
+    "awlv": None,
+    "alv": None,
+    "totalav": None,
+
+    "b": None,
+    "bv": None,
+    "bwlv": None,
+    "blv": None,
+    "totalbv": None,
+
+    "lp": None,
+    "lv": None,
+
+    "vtd": None,
+    "v24": None,
+    "vwap": None,
+    "wap": None,
+    "vwaptd": None,
+    "vwap24": None,
+    "baseav24": None,
+    "quoteav24": None,
+    "pchange24": None,
+    "numttd": None,
+    "numt24": None,
+
+ 
+
+    "o": None,
+    "o24": None,
+    "h": None,
+    "h24": None,
+    "l": None,
+    "l24": None,
+    "c": None,
+    "clv": None
+}
